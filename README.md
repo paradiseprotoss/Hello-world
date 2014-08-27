@@ -1,6 +1,6 @@
 Hello World!
 Welcome:
-Lei Liu
-Ming Yue
-Xiaofeng Wang
+Lei Liu, 
+Ming Yue, 
+Xiaofeng Wang, 
 Hao Chen
